@@ -9,6 +9,7 @@ A Prework study guide to help students keep track of notes for HTML, CSS, Git an
 N/A
 
 ## Usage
+Deployed [on GitHub Pages](https://andresalbornozgil.github.io/prework-study-guide/)
 
 Each section in this project contains notes about HTML, CSS, JavaScript, Git. And if we open the DevTools console, we can see the JavaScript running. It will list the topics we learned from prework and choose one topic for us to study first.
 
